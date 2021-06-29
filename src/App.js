@@ -21,7 +21,7 @@ function App() {
 		<div className="App">
 			<TabList items={tabData} />
 		</div>
-);
+	);
 }
 
 export default App;
